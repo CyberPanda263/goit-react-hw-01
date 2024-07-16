@@ -1,0 +1,18 @@
+.TransactionHistoryTable {
+    margin-top: 40px;
+    text-align: center;
+    color: black;
+    background-color: black;
+}
+
+.TransactionHistoryTableItem {
+    padding: 5px;
+    width: 100px;
+    background-color: white;
+}
+
+.TransactionHistoryTableHead {
+    cocomposes: TransactionHistoryTableItem;
+    background-color: #2d2c2c;
+    color: white;
+}
