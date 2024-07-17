@@ -6,23 +6,3 @@
     display: flex;
     column-gap: 10px;
 }
-
-.FriendListItem {
-    padding: 10px;
-    border: solid 1px black;
-    border-radius: 5px;
-    color: black;
-    text-align: center;
-}
-
-.FriendListItemText {
-    margin-top: 5px;
-}
-
-.online {
-    color: green;
-}
-
-.Ofline {
-    color: red;
-}
